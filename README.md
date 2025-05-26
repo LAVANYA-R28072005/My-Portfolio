@@ -33,7 +33,7 @@ I developed personal portfolio website for showcasing my skills, projects, and e
    git clone https://github.com/your-username/Portfolia.git
 
 🔗 Live Demo
-View Portfolio Online
+View Portfolio Online : http://127.0.0.1:5500/index.html
 
 ## 📁 Folder Structure
 
