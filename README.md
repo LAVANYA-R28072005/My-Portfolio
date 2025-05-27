@@ -23,6 +23,8 @@ I developed personal portfolio website for showcasing my skills, projects, and e
 1. open index file in any browser after arrange all the requirements and project folder structure.
 2. change the images location inside the index.html and style.css file according to your system location.
 
+Note: images path in local machine according to the project structure : images\image_name.jpg
+* if you are hosting on github change them accoding to the project folder you are aligned in the github: ex-I dint stored images in folder directly i uploaded in github so my github image path is: image_name.jpg 
 
 ----   
 
