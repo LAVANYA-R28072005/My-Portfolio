@@ -207,8 +207,8 @@ body{
     gap: 1.5rem;
  }
 .about-img img {
-    width: 650px;              /* Set fixed width */
-    height: 650px;             /* Set fixed height (same as width for perfect circle) */
+    width: 600px;              /* Set fixed width */
+    height: 600px;             /* Set fixed height (same as width for perfect circle) */
     border-radius: 50%;        /* Makes the image round */
     object-fit: cover;         /* Ensures the image fills the circle */
     box-shadow: 0 0 10px rgba(17, 9, 251, 0.989); /* Soft green glow */
