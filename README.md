@@ -35,7 +35,7 @@ Note: images path in local machine according to the project structure : images\i
    git clone https://github.com/your-username/Portfolia.git
 
 🔗 Live Demo
-View Portfolio Online : http://127.0.0.1:5500/index.html
+View Portfolio Online : https://lavanya-r28072005.github.io/My-Portfolio
 
 ## 📁 Folder Structure
 
